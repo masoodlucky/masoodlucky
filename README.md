@@ -4,14 +4,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=masoodlucky&label=Profile%20views&color=0e75b6&style=flat" alt="masoodlucky" /> </p>
 
-<p align="left"> <a href="https://twitter.com/masood_108" target="blank"><img src="https://img.shields.io/twitter/follow/masood_108?logo=twitter&style=for-the-badge" alt="masood_108" /></a> </p>
-
-- 📫 How to reach me **masoodaslam2005@gmail.com**
+<p align="left"> <a href="https://twitter.com/masood_108" target="blank"><img src="https://img.shields.io/twitter/follow/masood_108?logo=twitter&style=for-the-badge" alt="masood_108" /></a> </p
 - I'm Masood Aslam, a passionate cybersecurity enthusiast with a knack for safeguarding against digital threats. As a computer science student, I excel in hacking and cybersecurity, leveraging my strong coding skills to fortify online defenses.
 
 With expertise in C programming and a dedication to continuous learning, I stay at the forefront of cybersecurity trends. I'm committed to exploring complex algorithms and dissecting malware variants to enhance our digital security.
-
 Let's connect and collaborate on cybersecurity and beyond!
+
+-📫 How to reach me **masoodaslam2005@gmail.com**
 
 ![Snake animation](https://github.com/GuillaumeFalourd/GuillaumeFalourd/blob/output/github-contribution-grid-snake.svg)
 
