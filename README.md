@@ -8,6 +8,9 @@
 
 - 📫 How to reach me **masoodaslam2005@gmail.com**
 
+![Snake animation](https://github.com/GuillaumeFalourd/GuillaumeFalourd/blob/output/github-contribution-grid-snake.svg)
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/masood_108" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="masood_108" height="30" width="40" /></a>
@@ -18,42 +21,6 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-name: "generate-snake-game-from-github-contribution-grid"
-description: "Generates a snake game from a github user contributions grid. Output the animation as svg"
-author: "platane"
-
-runs:
-  using: node20
-  main: dist/index.js
-
-inputs:
-  github_user_name:
-    description: "github user name"
-    required: true
-  github_token:
-    description: "github token used to fetch the contribution calendar. Default to the action token if empty."
-    required: false
-    default: ${{ github.token }}
-  outputs:
-    required: false
-    description: |
-      list of files to generate.
-      one file per line. Each output can be customized with options as query string.
-
-       supported query string options:
-
-      - palette:      A preset of color, one of [github, github-dark, github-light]
-      - color_snake:  Color of the snake
-      - color_dots:   Coma separated list of dots color. 
-                      The first one is 0 contribution, then it goes from the low contribution to the highest.
-                      Exactly 5 colors are expected.
-
-      example:
-        outputs: |
-          dark.svg?palette=github-dark&color_snake=blue
-          light.svg?color_snake=#7845ab
-          ocean.svg?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=masoodlucky&show_icons=true&locale=en&layout=compact" alt="masoodlucky" /></p>
 
